@@ -1,7 +1,7 @@
 import java.util.Comparator;
  
 /**
- * This comparator compares two Accounts by their job titles.
+ * This comparator compares two Accounts by their names.
  * @author www.codejava.net
  *
  */
